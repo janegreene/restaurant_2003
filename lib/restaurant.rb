@@ -10,7 +10,7 @@ class Restaurant
   end
 
   def closing_time(hours)
-    
+
   end
 
 end
